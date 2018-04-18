@@ -1,6 +1,8 @@
-Sample output
+**Sample output:**
 
+```
 $ node anvyl 2017-07-20
+
 Max time: 0.095991 secs
 Average time: 0.092831 secs
 Path: /orders.html
@@ -11,3 +13,4 @@ Path: /orders.php
   Code 200: 91
   Code 503: 7
   Code 404: 4
+```
